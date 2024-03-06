@@ -1,0 +1,31 @@
+{
+  "name": "ruslanastartjs_new_bot",
+  "version": "1.0.0",
+  "description": "new updated bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruslanadro/ruslanastartjs_new_bot.git"
+  },
+  "dependencies": {
+    "helpershark": "1.0.1",
+    "instagram_asker_v1": "1.0.0",
+    "askingbot3": "1.0.1",
+    "askingbot3_v1": "1.0.0",
+    "sstgbot1": "1.0.1",
+    "sstgbot1_v2": "1.0.0",
+    "bboottedd9": "1.0.1",
+    "bboottedd2024": "1.0.0",
+    "ruslanastartjs": "1.0.1"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslanadro/ruslanastartjs_new_bot/issues"
+  },
+  "homepage": "https://github.com/ruslanadro/ruslanastartjs_new_bot"
+}
